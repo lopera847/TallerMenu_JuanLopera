@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\bin\Debug\net8.0\TallerMenu_JuanLopera.exe
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\bin\Debug\net8.0\TallerMenu_JuanLopera.deps.json
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\bin\Debug\net8.0\TallerMenu_JuanLopera.runtimeconfig.json
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\bin\Debug\net8.0\TallerMenu_JuanLopera.dll
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\bin\Debug\net8.0\TallerMenu_JuanLopera.pdb
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.AssemblyInfo.cs
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.dll
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\refint\TallerMenu_JuanLopera.dll
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.pdb
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\TallerMenu_JuanLopera.genruntimeconfig.cache
+C:\Users\aleja\source\repos\TallerMenu_JuanLopera\TallerMenu_JuanLopera\obj\Debug\net8.0\ref\TallerMenu_JuanLopera.dll
